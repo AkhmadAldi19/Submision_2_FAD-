@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Search User</string>
+    <string name="background" translatable="false">background</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="flogo">flogo</string>
+    <string name="submision2">Submision2</string>
+    <string name="search">Search Here</string>
+    <string name="btn_search">btn_search</string>
+    <string name="nama">Naruto Uzumaki</string>
+    <string name="username">Uzumaki10</string>
+    <string name="id">1928901</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tv_id">id :</string>
+    <string name="avatar">Avatar</string>
+    <string name="work">Pt Cinta Jaya abadi</string>
+    <string name="Location">indonesia</string>
+    <string name="Angka">1000</string>
+    <string name="bio">Change your thoughts and you can see the world is changing</string>
+    <string name="detail">User Profile</string>
+    <string name="repository">Repository</string>
+    <string name="userNot">user not found</string>
+    <string name="NotFowers">User has no followers</string>
+    <string name="Notfowing">User doesnt follow anyone</string>
+
+</resources>
